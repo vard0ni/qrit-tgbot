@@ -14,7 +14,7 @@ using namespace cv;
 using namespace zbar;
 
 ImageScanner scanner;
-std::string token = "6269700318:AAG6ZrwSUPG5goWYVUBHXnhd8pWADYKActg"; //Персональный токен от Tg-bot
+std::string token = "YOUR TOKEN"; //Персональный токен от Tg-bot
 
 
 //-------------------РАСПОЗНОВАНИЕ QR-кодов НА ИЗОБРАЖЕНИИ-------------------

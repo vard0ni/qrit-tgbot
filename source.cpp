@@ -11,7 +11,7 @@
 
 int max_size = 20480; // 20 Mbytes
 int max_duration = 30; // 30 seconds
-std::string token = "6269700318:AAG6ZrwSUPG5goWYVUBHXnhd8pWADYKActg";
+std::string token = "YOUR TOKEN";
 
 int main() {
     TgBot::Bot bot(token);
